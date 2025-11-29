@@ -1,0 +1,226 @@
+```json
+{
+  "test_data": [
+    {
+      "applicant_id": 1001,
+      "full_name": "James Wilson",
+      "age": 45,
+      "annual_income": 125000,
+      "employment_status": "Full-Time",
+      "credit_score": 815,
+      "card_type": "Platinum",
+      "application_status": "Approved",
+      "notes": "Excellent credit profile, high income"
+    },
+    {
+      "applicant_id": 1002,
+      "full_name": "Sarah Chen",
+      "age": 28,
+      "annual_income": 48000,
+      "employment_status": "Part-Time",
+      "credit_score": 625,
+      "card_type": "Standard",
+      "application_status": "Declined",
+      "notes": "Insufficient income for requested card type"
+    },
+    {
+      "applicant_id": 1003,
+      "full_name": "Michael Rodriguez",
+      "age": 35,
+      "annual_income": 89000,
+      "employment_status": "Full-Time",
+      "credit_score": 720,
+      "card_type": "Travel Rewards",
+      "application_status": "Approved",
+      "notes": "Strong applicant with good credit history"
+    },
+    {
+      "applicant_id": 1004,
+      "full_name": "Emily Parker",
+      "age": 21,
+      "annual_income": 22000,
+      "employment_status": "Student",
+      "credit_score": 580,
+      "card_type": "Student",
+      "application_status": "Approved",
+      "notes": "Student card with income-appropriate limit"
+    },
+    {
+      "applicant_id": 1005,
+      "full_name": "Robert Thompson",
+      "age": 67,
+      "annual_income": 75000,
+      "employment_status": "Retired",
+      "credit_score": 790,
+      "card_type": "Low-Interest",
+      "application_status": "Approved",
+      "notes": "Senior applicant with stable retirement income"
+    },
+    {
+      "applicant_id": 1006,
+      "full_name": "Jennifer Martinez",
+      "age": 31,
+      "annual_income": 155000,
+      "employment_status": "Full-Time",
+      "credit_score": 830,
+      "card_type": "Elite",
+      "application_status": "Approved",
+      "notes": "VIP applicant with premium qualifications"
+    },
+    {
+      "applicant_id": 1007,
+      "full_name": "David Kim",
+      "age": 42,
+      "annual_income": 0,
+      "employment_status": "Unemployed",
+      "credit_score": 590,
+      "card_type": "Secured",
+      "application_status": "Declined",
+      "notes": "No verifiable income source"
+    },
+    {
+      "applicant_id": 1008,
+      "full_name": "Amanda Foster",
+      "age": 26,
+      "annual_income": 68000,
+      "employment_status": "Full-Time",
+      "credit_score": 680,
+      "card_type": "Cashback",
+      "application_status": "Approved",
+      "notes": "Good income with fair credit score"
+    },
+    {
+      "applicant_id": 1009,
+      "full_name": "Christopher Lee",
+      "age": 19,
+      "annual_income": 15000,
+      "employment_status": "Student",
+      "credit_score": 550,
+      "card_type": "Platinum",
+      "application_status": "Declined",
+      "notes": "Age and income insufficient for premium card"
+    },
+    {
+      "applicant_id": 1010,
+      "full_name": "Michelle Adams",
+      "age": 38,
+      "annual_income": 210000,
+      "employment_status": "Self-Employed",
+      "credit_score": 780,
+      "card_type": "Business",
+      "application_status": "Approved",
+      "notes": "High-income business owner with strong credit"
+    },
+    {
+      "applicant_id": 1011,
+      "full_name": "Kevin Johnson",
+      "age": 29,
+      "annual_income": 52000,
+      "employment_status": "Contract",
+      "credit_score": 610,
+      "card_type": "Standard",
+      "application_status": "Declined",
+      "notes": "Low credit score with unstable employment"
+    },
+    {
+      "applicant_id": 1012,
+      "full_name": "Lisa Wong",
+      "age": 33,
+      "annual_income": 95000,
+      "employment_status": "Full-Time",
+      "credit_score": 745,
+      "card_type": "Premium",
+      "application_status": "Approved",
+      "notes": "Solid financial profile meets premium criteria"
+    },
+    {
+      "applicant_id": 1013,
+      "full_name": "Daniel Brown",
+      "age": 57,
+      "annual_income": 42000,
+      "employment_status": "Part-Time",
+      "credit_score": 530,
+      "card_type": "Low-Interest",
+      "application_status": "Declined",
+      "notes": "Poor credit score and low income"
+    },
+    {
+      "applicant_id": 1014,
+      "full_name": "Nicole Garcia",
+      "age": 24,
+      "annual_income": 35000,
+      "employment_status": "Full-Time",
+      "credit_score": 695,
+      "card_type": "Cashback",
+      "application_status": "Approved",
+      "notes": "Young professional with growing credit profile"
+    },
+    {
+      "applicant_id": 1015,
+      "full_name": "Thomas Harris",
+      "age": 41,
+      "annual_income": 180000,
+      "employment_status": "Full-Time",
+      "credit_score": 810,
+      "card_type": "Travel Rewards",
+      "application_status": "Approved",
+      "notes": "High-income frequent traveler, excellent match"
+    },
+    {
+      "applicant_id": 1016,
+      "full_name": "Rachel Moore",
+      "age": 22,
+      "annual_income": 28000,
+      "employment_status": "Student",
+      "credit_score": 625,
+      "card_type": "Student",
+      "application_status": "Approved",
+      "notes": "College student with part-time employment"
+    },
+    {
+      "applicant_id": 1017,
+      "full_name": "Steven Clark",
+      "age": 48,
+      "annual_income": 110000,
+      "employment_status": "Full-Time",
+      "credit_score": 570,
+      "card_type": "Platinum",
+      "application_status": "Declined",
+      "notes": "Recent credit issues despite good income"
+    },
+    {
+      "applicant_id": 1018,
+      "full_name": "Patricia Lewis",
+      "age": 39,
+      "annual_income": 72000,
+      "employment_status": "Full-Time",
+      "credit_score": 710,
+      "card_type": "Secured",
+      "application_status": "Approved",
+      "notes": "Rebuilding credit with secured card option"
+    },
+    {
+      "applicant_id": 1019,
+      "full_name": "Brian Walker",
+      "age": 30,
+      "annual_income": 135000,
+      "employment_status": "Self-Employed",
+      "credit_score": 760,
+      "card_type": "Business",
+      "application_status": "Approved",
+      "notes": "Successful entrepreneur with strong finances"
+    },
+    {
+      "applicant_id": 1020,
+      "full_name": "Jessica King",
+      "age": 25,
+      "annual_income": 45000,
+      "employment_status": "Full-Time",
+      "credit_score": 590,
+      "card_type": "Elite",
+      "application_status": "Declined",
+      "notes": "Insufficient credit history for elite card tier"
+    }
+  ]
+}
+```

@@ -1,0 +1,24 @@
+Context
+You are an AI Assistant expertise QA generating test data for credit card applications including multiple card types, applicant profiles, and realistic approval/decline conditions. 
+
+Instructions (user input/prompt)
+- [Mandatory] Generate a table with test data with 20 records.
+- [Mandatory] include Applicant ID, Full Name, Age, Annual Income, Employment Status, Credit Score as columns.
+- [Mandatory] include different Card Type like Standard, Cashback, Travel Rewards, Low-Interest, Platinum, Premium, Elite, Business, Student, Secured.
+- [Mandatory] include Application Status like Approved/Declined
+- [Important] Include Reason/Notes like low score, insufficient income, strong credit, VIP applicant
+- [Important] Use varied and realistic values.
+- [Important] Include positive, edge, and negative test cases
+- [Mandatory] All data must be fully fictional.
+
+Example
+{"applicant_id":1001,"full_name":"John Carter","age":32,"annual_income":82000,"employment_status":"Full-Time","credit_score":760,"card_type":"Platinum Rewards","application_status":"Approved","notes":"Strong income and credit profile"}
+
+Tone
+Use Technical and Precise tone while giving prompt.
+
+Output
+Generate the Output in JSON format.
+
+Persona
+Review the code as Data Engineer focus on quality and provide the score.

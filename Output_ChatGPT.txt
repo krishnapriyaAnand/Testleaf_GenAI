@@ -1,0 +1,252 @@
+{
+"test_data": [
+{
+"applicant_id": 2001,
+"full_name": "Alex Morgan",
+"age": 45,
+"annual_income": 150000,
+"employment_status": "Full-Time",
+"credit_score": 815,
+"card_type": "Elite",
+"application_status": "Approved",
+"notes": "VIP applicant with long-standing relationship and excellent credit history"
+},
+{
+"applicant_id": 2002,
+"full_name": "Priya Desai",
+"age": 23,
+"annual_income": 32000,
+"employment_status": "Part-Time",
+"credit_score": 690,
+"card_type": "Cashback",
+"application_status": "Approved",
+"notes": "Stable part-time income; slightly below prime score but acceptable for cashback card"
+},
+{
+"applicant_id": 2003,
+"full_name": "Michael Stone",
+"age": 19,
+"annual_income": 8000,
+"employment_status": "Student",
+"credit_score": 640,
+"card_type": "Student",
+"application_status": "Approved",
+"notes": "Limited income but approved as student card with low credit limit"
+},
+{
+"applicant_id": 2004,
+"full_name": "Elena Rossi",
+"age": 60,
+"annual_income": 40000,
+"employment_status": "Retired",
+"credit_score": 720,
+"card_type": "Low-Interest",
+"application_status": "Approved",
+"notes": "Pension income and solid score; suitable for low-interest product"
+},
+{
+"applicant_id": 2005,
+"full_name": "Daniel Kim",
+"age": 35,
+"annual_income": 55000,
+"employment_status": "Self-Employed",
+"credit_score": 580,
+"card_type": "Travel Rewards",
+"application_status": "Declined",
+"notes": "Low credit score and recent delinquencies; high-risk for rewards product"
+},
+{
+"applicant_id": 2006,
+"full_name": "Sara Ahmed",
+"age": 52,
+"annual_income": 0,
+"employment_status": "Unemployed",
+"credit_score": 610,
+"card_type": "Standard",
+"application_status": "Declined",
+"notes": "No verifiable income; does not meet minimum underwriting requirements"
+},
+{
+"applicant_id": 2007,
+"full_name": "Jason Lee",
+"age": 28,
+"annual_income": 27000,
+"employment_status": "Full-Time",
+"credit_score": 605,
+"card_type": "Secured",
+"application_status": "Approved",
+"notes": "Borderline score; approved as secured card with required deposit"
+},
+{
+"applicant_id": 2008,
+"full_name": "Natalie Shaw",
+"age": 31,
+"annual_income": 95000,
+"employment_status": "Full-Time",
+"credit_score": 745,
+"card_type": "Platinum",
+"application_status": "Approved",
+"notes": "Strong income and prime credit profile; qualifies for platinum tier"
+},
+{
+"applicant_id": 2009,
+"full_name": "Rahul Verma",
+"age": 41,
+"annual_income": 180000,
+"employment_status": "Business Owner",
+"credit_score": 710,
+"card_type": "Business",
+"application_status": "Approved",
+"notes": "High verified business revenue and acceptable score"
+},
+{
+"applicant_id": 2010,
+"full_name": "Emily Turner",
+"age": 22,
+"annual_income": 26000,
+"employment_status": "Contract",
+"credit_score": 590,
+"card_type": "Travel Rewards",
+"application_status": "Declined",
+"notes": "Unstable contract employment and subprime score for travel rewards"
+},
+{
+"applicant_id": 2011,
+"full_name": "Hassan Ali",
+"age": 54,
+"annual_income": 120000,
+"employment_status": "Full-Time",
+"credit_score": 802,
+"card_type": "Premium",
+"application_status": "Approved",
+"notes": "High income and excellent credit; qualifies for premium high-limit card"
+},
+{
+"applicant_id": 2012,
+"full_name": "Laura Martinez",
+"age": 38,
+"annual_income": 22000,
+"employment_status": "Part-Time",
+"credit_score": 675,
+"card_type": "Standard",
+"application_status": "Approved",
+"notes": "Moderate score; approved with low starting limit due to lower income"
+},
+{
+"applicant_id": 2013,
+"full_name": "David Nguyen",
+"age": 27,
+"annual_income": 48000,
+"employment_status": "Full-Time",
+"credit_score": 665,
+"card_type": "Cashback",
+"application_status": "Approved",
+"notes": "Meets minimum score and income; average risk profile"
+},
+{
+"applicant_id": 2014,
+"full_name": "Irina Popov",
+"age": 33,
+"annual_income": 40000,
+"employment_status": "Self-Employed",
+"credit_score": 550,
+"card_type": "Secured",
+"application_status": "Approved",
+"notes": "Low score; approved only for secured product to rebuild credit"
+},
+{
+"applicant_id": 2015,
+"full_name": "Marcus Johnson",
+"age": 48,
+"annual_income": 30000,
+"employment_status": "Full-Time",
+"credit_score": 530,
+"card_type": "Low-Interest",
+"application_status": "Declined",
+"notes": "Very low credit score; multiple recent delinquencies"
+},
+{
+"applicant_id": 2016,
+"full_name": "Chloe Bennett",
+"age": 18,
+"annual_income": 12000,
+"employment_status": "Student",
+"credit_score": 610,
+"card_type": "Student",
+"application_status": "Approved",
+"notes": "New-to-credit; approved with minimal limit based on student profile"
+},
+{
+"applicant_id": 2017,
+"full_name": "Kenji Tanaka",
+"age": 65,
+"annual_income": 28000,
+"employment_status": "Retired",
+"credit_score": 780,
+"card_type": "Travel Rewards",
+"application_status": "Approved",
+"notes": "Strong credit and manageable utilization; frequent traveler profile"
+},
+{
+"applicant_id": 2018,
+"full_name": "Sofia Almeida",
+"age": 29,
+"annual_income": 85000,
+"employment_status": "Business Owner",
+"credit_score": 720,
+"card_type": "Business",
+"application_status": "Declined",
+"notes": "Income strong but insufficient business documentation provided"
+},
+{
+"applicant_id": 2019,
+"full_name": "Liam O'Connor",
+"age": 39,
+"annual_income": 68000,
+"employment_status": "Full-Time",
+"credit_score": 699,
+"card_type": "Platinum",
+"application_status": "Declined",
+"notes": "Score just below internal platinum threshold (>=700)"
+},
+{
+"applicant_id": 2020,
+"full_name": "Zara Khan",
+"age": 26,
+"annual_income": 52000,
+"employment_status": "Full-Time",
+"credit_score": 730,
+"card_type": "Premium",
+"application_status": "Approved",
+"notes": "Good income, stable employment, and strong credit history"
+}
+],
+"qa_review": {
+"score": 9.5,
+"comments": "Dataset contains 20 fully fictional records with varied card types, employment statuses, income ranges, ages, and credit scores. Both positive and negative outcomes are represented, including edge scenarios (borderline scores, no income, student and retired applicants, documentation issues). Fields are consistent and typed correctly for typical JSON ingestion. For increased robustness, consider adding explicit currency units in metadata (not in the records) and including a separate field for decision codes to standardize reasons beyond free-text notes.",
+"checks": {
+"record_count": 20,
+"unique_applicant_ids": true,
+"all_required_fields_present": true,
+"card_type_coverage": [
+"Standard",
+"Cashback",
+"Travel Rewards",
+"Low-Interest",
+"Platinum",
+"Premium",
+"Elite",
+"Business",
+"Student",
+"Secured"
+],
+"application_status_values": [
+"Approved",
+"Declined"
+],
+"contains_positive_cases": true,
+"contains_negative_cases": true,
+"contains_edge_cases": true
+}
+}
+}
